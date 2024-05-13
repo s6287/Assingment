@@ -1,0 +1,11 @@
+.App{
+  background-color: #ffb84d0b;
+}
+
+.custom-label {
+  color: #ffb74d;
+}
+
+.custom-focused {
+  color: #ffb74d !important; /* Ensure focus color is applied */
+}
